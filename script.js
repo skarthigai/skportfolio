@@ -1,4 +1,3 @@
 function showMessage() {
-    document.getElementById("msg").innerHTML =
-        "Thank you for visiting my academic portfolio!";
+  alert("Thanks for visiting my GitHub page!");
 }
